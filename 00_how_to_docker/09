@@ -1,0 +1,4 @@
+apt-get update
+apt-get install gcc
+apt-get update
+apt-get git
