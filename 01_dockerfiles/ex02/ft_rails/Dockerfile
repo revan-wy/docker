@@ -21,5 +21,5 @@ ONBUILD RUN rails db:seed
 # docker build --tag ex02 ./
 
 # run it
-# docker run --interactive --tty -p 3000:3000 ex02
+# docker run --detach -p 3000:3000 ex02
 
